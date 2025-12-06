@@ -1,0 +1,4 @@
+Test Case,BF Length,BF Time (ms),BF Memory (MB),BT Length,BT Time (ms),BT Memory (MB),DP Length,DP Time (ms),DP Memory (MB),Opt Length,Opt Time (ms),Opt Memory (MB)
+Small,4,0.6036,0.000829,4,0.0290,0.000809,4,0.0178,0.000595,4,0.0196,0.000389
+Medium,4,103.6886,0.000896,4,0.0527,0.002159,4,0.0383,0.001945,4,0.0422,0.000542
+Large,N/A,N/A,N/A,13,0.1041,0.006048,13,0.0840,0.005501,13,0.0864,0.000816

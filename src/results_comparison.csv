@@ -1,0 +1,13 @@
+Test,Algorithm,Length,Time (ms),Memory (MB),Status
+Small,Brute Force,4,0.6036,0.000829,SUCCESS
+Small,Backtracking,4,0.0290,0.000809,SUCCESS
+Small,Standard DP,4,0.0178,0.000595,SUCCESS
+Small,Optimized DP,4,0.0196,0.000389,SUCCESS
+Medium,Brute Force,4,103.6886,0.000896,SUCCESS
+Medium,Backtracking,4,0.0527,0.002159,SUCCESS
+Medium,Standard DP,4,0.0383,0.001945,SUCCESS
+Medium,Optimized DP,4,0.0422,0.000542,SUCCESS
+Large,Brute Force,N/A,N/A,N/A,SKIPPED
+Large,Backtracking,13,0.1041,0.006048,SUCCESS
+Large,Standard DP,13,0.0840,0.005501,SUCCESS
+Large,Optimized DP,13,0.0864,0.000816,SUCCESS
